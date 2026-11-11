@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#heading{
+    font-size: 335%;
+}
+
+#pre-heading{
+    font-size: 225%;
+}
+
+#sub-heading{
+    font-size: 150%;
+}
+
+a.nostyle{
+    text-decoration: none;
+    font-size: 150%;
+}
+
+li.nostyle {
+    list-style-type: none;
+}
